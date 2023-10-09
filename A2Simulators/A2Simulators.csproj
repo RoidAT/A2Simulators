@@ -41,7 +41,6 @@
     <ItemGroup>
         <Compile Include="Batteriemodul.cs" />
         <Compile Include="Batteriespeicher.cs" />
-        <Compile Include="Class1.cs"/>
         <Compile Include="ISimulator.cs" />
         <Compile Include="Ladepark.cs" />
         <Compile Include="Ladestation.cs" />
