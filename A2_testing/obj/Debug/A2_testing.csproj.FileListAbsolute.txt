@@ -1,0 +1,9 @@
+/Users/Roidl/RiderProjects/A2Simulators/A2_testing/obj/Debug/A2_testing.csproj.AssemblyReference.cache
+/Users/Roidl/RiderProjects/A2Simulators/A2_testing/obj/Debug/A2_testing.csproj.CoreCompileInputs.cache
+/Users/Roidl/RiderProjects/A2Simulators/A2_testing/bin/Debug/A2_testing.exe
+/Users/Roidl/RiderProjects/A2Simulators/A2_testing/bin/Debug/A2_testing.pdb
+/Users/Roidl/RiderProjects/A2Simulators/A2_testing/bin/Debug/A2Simulators.dll
+/Users/Roidl/RiderProjects/A2Simulators/A2_testing/bin/Debug/A2Simulators.pdb
+/Users/Roidl/RiderProjects/A2Simulators/A2_testing/obj/Debug/A2_testing.csproj.CopyComplete
+/Users/Roidl/RiderProjects/A2Simulators/A2_testing/obj/Debug/A2_testing.exe
+/Users/Roidl/RiderProjects/A2Simulators/A2_testing/obj/Debug/A2_testing.pdb
