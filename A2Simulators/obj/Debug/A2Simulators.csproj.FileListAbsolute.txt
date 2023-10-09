@@ -1,0 +1,6 @@
+/Users/Roidl/RiderProjects/A2Simulators/A2Simulators/bin/Debug/A2Simulators.dll
+/Users/Roidl/RiderProjects/A2Simulators/A2Simulators/bin/Debug/A2Simulators.pdb
+/Users/Roidl/RiderProjects/A2Simulators/A2Simulators/obj/Debug/A2Simulators.csproj.AssemblyReference.cache
+/Users/Roidl/RiderProjects/A2Simulators/A2Simulators/obj/Debug/A2Simulators.csproj.CoreCompileInputs.cache
+/Users/Roidl/RiderProjects/A2Simulators/A2Simulators/obj/Debug/A2Simulators.dll
+/Users/Roidl/RiderProjects/A2Simulators/A2Simulators/obj/Debug/A2Simulators.pdb
