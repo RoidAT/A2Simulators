@@ -9,7 +9,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace A01
+namespace SIM
 {
     public class Batteriemodul : ISimulator
     {

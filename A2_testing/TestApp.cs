@@ -9,7 +9,7 @@
 
 using System;
 using System.Threading;
-using A01;
+using SIM;
 
 long simulationsGeschwindigkeit = 1000;
 

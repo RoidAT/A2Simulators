@@ -8,7 +8,7 @@
  */
 using System.Collections.Generic;
 
-namespace A01
+namespace SIM
 {
     public class Wechselrichter : ISimulator
     {
